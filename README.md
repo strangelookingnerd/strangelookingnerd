@@ -2,4 +2,4 @@
 #### ☕ Java Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤓 Proud Nerd
 #### 🦆 Rubber Duck Collector&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦥 Sloth Enthusiast
 ---
-[![](https://visitcount.itsvg.in/api?id=strangelookingnerd&icon=1&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=strangelookingnerd&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
