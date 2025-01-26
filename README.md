@@ -2,4 +2,4 @@
 #### ☕ `Java Developer`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤓 `Proud Nerd`
 #### 🦆 `Rubber Duck Collector`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦥 `Sloth Enthusiast`
 ---
-[![](https://visitcount.itsvg.in/api?id=strangelookingnerd&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcountpro.netlify.app/api?id=strangelookingnerd&color=12&icon=5&pretty=true)
